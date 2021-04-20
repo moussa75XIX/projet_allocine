@@ -1,0 +1,72 @@
+[
+    {
+        "serie_name": "L'Attaque des Titans",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=17425.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-17425/critiques/"
+    },
+    {
+        "serie_name": "24 heures chrono",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=58.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-58/critiques/"
+    },
+    {
+        "serie_name": "This is Us",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=19992.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-19992/critiques/"
+    },
+    {
+        "serie_name": "Chicago Med",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=18890.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-18890/critiques/"
+    },
+    {
+        "serie_name": "Moi, Christiane F.",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22453.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22453/critiques/"
+    },
+    {
+        "serie_name": "The One",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=24465.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-24465/critiques/"
+    },
+    {
+        "serie_name": "Outlander",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=11266.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-11266/critiques/"
+    },
+    {
+        "serie_name": "Miss Scarlet, détective privée",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=24626.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-24626/critiques/"
+    },
+    {
+        "serie_name": "Élite",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22373.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22373/critiques/"
+    },
+    {
+        "serie_name": "Dix Pour Cent",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=5019.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-5019/critiques/"
+    },
+    {
+        "serie_name": "Le jeu de la dame",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=24971.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-24971/critiques/"
+    },
+    {
+        "serie_name": "La Chronique des Bridgerton",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=23886.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-23886/critiques/"
+    },
+    {
+        "serie_name": "Stranger Things",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=19156.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-19156/critiques/"
+    },
+    {
+        "serie_name": "Jupiter's Legacy",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=23853.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-23853/critiques/"
+    }
+]
