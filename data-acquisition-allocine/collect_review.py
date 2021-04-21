@@ -12,7 +12,6 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 
-
 from reviews_collector import collect_reviews_data
 
 PATH_REVIEW = os.path.join(os.curdir, 'review')
@@ -52,6 +51,9 @@ def main():
     with open(os.path.join(PATH_REVIEW, str(time.strftime("%Y_%m_%d_%H_%M_%S")) + '_review.json'), 'w', encoding='utf-8') as file_to_dump:
         json.dump(reviews_dicts, file_to_dump, indent=4, ensure_ascii=False)
 
+    # Delete the cookies and quit the driver
+    driver.delete_all_cookies()
+    driver.quit()
 
 if __name__ == "__main__":
     main()
