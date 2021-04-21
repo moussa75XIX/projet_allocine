@@ -1,0 +1,13 @@
+Le but du projet est d'effectuer un dashboard qui contient les informations d'une série TV ainsi que les avis des spectateurs par rapport à cette série.
+
+On utilisera la scrapping pour collecter les informations d'un site catalogue de séries.
+
+Les informations collectées seront La fiche descriptive de la série ainsi que les avis des spectateurs.
+
+Ces informations seront stockées dans des fichiers .json qui seront eux-mêmes stockées dans une base de données MongoDB.
+
+On utlisera ElastikSearch et Kibana pour créer un moteur de recherche pour permettre au client de rechercher une série
+
+Une fois la série sélectionée le client aura accès à un dashboard affichant les informations de la série ainsi que les avis consommateurs.
+
+Les techonologies utilisées seront  Python, Jupyter, MongoDB, ElastikSearch, Kibana.
