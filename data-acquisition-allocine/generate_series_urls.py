@@ -14,7 +14,6 @@ PATH_SERIES_COLLECTED = os.path.join(os.curdir, 'urls_series_collected')
 def init_url_serie_dict():
     """
     Initializes the dictionary with the product data.
-
     Returns:
         url_serie_dict : dict, dictionary with the information of a serie.
     """
@@ -28,13 +27,11 @@ def init_url_serie_dict():
     return url_serie_dict
 
 
-def collect_series_urls(url):
+def collect_series_urls(current_page):
     """
     Collects the name and the url of each serie on the page.
-
     # Args:
-        url: str, url with list of series.
-
+        current_page: str, url with list of series.
     # Returns:
         urls_series_list : list, list of url_serie_dict dictionaries
     """
@@ -42,7 +39,7 @@ def collect_series_urls(url):
     urls_series_list = []
 
     # Load the page
-    response = requests.get(url)
+    response = requests.get(current_page)
     time.sleep(random.uniform(0, 3))
 
     print('[LOG] Response =', response)
@@ -103,7 +100,8 @@ def main():
         try:
             dict_urls_product_reviews = collect_series_urls(current_page)
             # Save series list in a json file
-            with open(os.path.join(PATH_SERIES_COLLECTED, str(time.strftime("%Y_%m_%d_%H_%*M_%S")) + '_urls_series_list.json'), 'w',encoding='utf-8') as file_to_dump:
+
+            with open(os.path.join(PATH_SERIES_COLLECTED, str(time.strftime("%Y_%m_%d_%H_%M_%S")) + '_urls_series_list.json'), 'w',encoding='utf-8') as file_to_dump:
                 json.dump(dict_urls_product_reviews, file_to_dump, ensure_ascii=False, indent=4)
             print('[LOG] All the information of the current url have been saved.')
 
