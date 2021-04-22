@@ -1,0 +1,52 @@
+[
+  {
+    "id_review_product": 1,
+    "url": "https://www.allocine.fr/series/ficheserie-12222/critiques/",
+    "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=12222.html",
+    "review_text": "Deux saisons qui m'ont franchement pleus. 'A bientôt' dans le dernier épisode de la saison 02. J'espère bien. Cette série mérite une suite.",
+    "review_date": "2 mai 2019",
+    "writer_pseudo": "BelgeResistant",
+    "review_rating": "4,0",
+    "collect_date": "2021_04_22"
+  },
+  {
+    "id_review_product": 2,
+    "url": "https://www.allocine.fr/series/ficheserie-12222/critiques/",
+    "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=12222.html",
+    "review_text": "Je suis étonné de voir le peu d'engouement envers cette série dont j'ai beaucoup apprécié les 2 saisons. 2 intrigues captivantes, crédibles et bien interprétées avec des personnages attachants. Bref, c'est excellent !Il faudrait mettre le casting de la S2 à jour car la plupart des personnages sont morts lors de la S1 ou absents dans la S2 !",
+    "review_date": "3 octobre 2019",
+    "writer_pseudo": "Gerard C",
+    "review_rating": "4,0",
+    "collect_date": "2021_04_22"
+  },
+  {
+    "id_review_product": 3,
+    "url": "https://www.allocine.fr/series/ficheserie-12222/critiques/",
+    "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=12222.html",
+    "review_text": "Tellement d invraisemblances ! J ai définitivement lâché l affaire au 4eme épisode . Il y avait matière à...",
+    "review_date": "20 avril 2021",
+    "writer_pseudo": "Ailise S.",
+    "review_rating": "1,0",
+    "collect_date": "2021_04_22"
+  },
+  {
+    "id_review_product": 4,
+    "url": "https://www.allocine.fr/series/ficheserie-12222/critiques/",
+    "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=12222.html",
+    "review_text": "J'ai beaucoup aimé les saisons 1 et le début de la saison 2, très bonnes intrigues, bons acteurs...La saison 1 est tout à fait plausible comme histoire, et est très touchante...Bravo !",
+    "review_date": "22 novembre 2018",
+    "writer_pseudo": "Jfq07",
+    "review_rating": "4,0",
+    "collect_date": "2021_04_22"
+  },
+  {
+    "id_review_product": 5,
+    "url": "https://www.allocine.fr/series/ficheserie-12222/critiques/",
+    "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=12222.html",
+    "review_text": "si la série souffre de certaines longueurs et d'une inégalité de qualité dans le casting, il n'en demeure pas moins que le tout est rattrapé par un scénario solide, entre polar politique et thriller. un parfum de paranoïa souffle sur les 10 épisodes de cette sympathique série qui nous vient de Belgique, cela change de l'hégémonie habituelle des produits américains et mérite donc d'être souligné.",
+    "review_date": "19 février 2015",
+    "writer_pseudo": "elriad",
+    "review_rating": "3,5",
+    "collect_date": "2021_04_22"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id_review_product": 1,
+    "url": "https://www.allocine.fr/series/ficheserie-23845/critiques/",
+    "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=23845.html",
+    "review_text": "Je ne suis pourtant pas une pro de ces époques victoriennes, mais je trouve la série très bonne. A cette époque là, les gens, et surtout les femmes, dotées de pouvoirs, moi, j'appelle ces pouvoirs, des dons psy, tels que la télékinésie ou pyrogénèse, dont ces filles seraient dotées. Les oubliées étaient maltraitées, voir pire, simplement parce qu'elles avaient des pouvoirs, et qu'à l'époque victorienne, on avait, disons...l'esprit  quelque peu fermé.",
+    "review_date": "18 avril 2021",
+    "writer_pseudo": "Bibi Lenfant",
+    "review_rating": "4,5",
+    "collect_date": "2021_04_22"
+  },
+  {
+    "id_review_product": 2,
+    "url": "https://www.allocine.fr/series/ficheserie-23845/critiques/",
+    "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=23845.html",
+    "review_text": "J’ai adoré le premier épisode, original, captivant, on retrouve la signature de Joss Whedon. A voir",
+    "review_date": "14 avril 2021",
+    "writer_pseudo": "K Cerezio",
+    "review_rating": "5,0",
+    "collect_date": "2021_04_22"
+  }
+]

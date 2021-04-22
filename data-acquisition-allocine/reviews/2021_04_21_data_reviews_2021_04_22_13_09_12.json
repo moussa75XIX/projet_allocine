@@ -1,0 +1,42 @@
+[
+  {
+    "id_review_product": 1,
+    "url": "https://www.allocine.fr/series/ficheserie-22454/critiques/",
+    "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22454.html",
+    "review_text": "Agréablement surprise, série bien menée sans en faire trop, on rentre dans une ambiance et l'histoire est prenante",
+    "review_date": "21 avril 2021",
+    "writer_pseudo": "Agnes lm",
+    "review_rating": "4,0",
+    "collect_date": "2021_04_22"
+  },
+  {
+    "id_review_product": 2,
+    "url": "https://www.allocine.fr/series/ficheserie-22454/critiques/",
+    "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22454.html",
+    "review_text": "Un début plustôt prometteur pour cette série, les acteurs sont magnifique. Il me tarde de savoir la cause de la maladie.",
+    "review_date": "11 mars 2018",
+    "writer_pseudo": "Laurine.dbc",
+    "review_rating": "5,0",
+    "collect_date": "2021_04_22"
+  },
+  {
+    "id_review_product": 3,
+    "url": "https://www.allocine.fr/series/ficheserie-22454/critiques/",
+    "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22454.html",
+    "review_text": "Très bonne série, les 2 acteurs principaux sont excellents, l'intrigue est intéressant et nous tient suspendus jusqu'au bout. La fin de la saison 1 est un peu décevante, dans le sens où Joanna reste très froide, même après une victoire contre son père. Son équipier (Billy) est visiblement déçu..",
+    "review_date": "21 mars 2019",
+    "writer_pseudo": "Xinoi",
+    "review_rating": "5,0",
+    "collect_date": "2021_04_22"
+  },
+  {
+    "id_review_product": 4,
+    "url": "https://www.allocine.fr/series/ficheserie-22454/critiques/",
+    "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22454.html",
+    "review_text": "De bons acteurs avec une intrigue qui nous tient en haleine d'épisode en épisode, j'ai hâte de voir la suite de cette série.",
+    "review_date": "13 janvier 2019",
+    "writer_pseudo": "asto1",
+    "review_rating": "5,0",
+    "collect_date": "2021_04_22"
+  }
+]

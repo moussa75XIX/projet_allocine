@@ -1,0 +1,42 @@
+[
+  {
+    "id_review_product": 1,
+    "url": "https://www.allocine.fr/series/ficheserie-25370/critiques/",
+    "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=25370.html",
+    "review_text": "Je trouve cette série excellente : les acteurs sont très bons, les histoires bien ficelées, et en prime c'est souvent drôle. Mention spéciale pour les deux héros très attachants et sympathioques. Bref c'est très plaisant.",
+    "review_date": "12 août 2019",
+    "writer_pseudo": "Alexandre Goldfarb",
+    "review_rating": "4,5",
+    "collect_date": "2021_04_22"
+  },
+  {
+    "id_review_product": 2,
+    "url": "https://www.allocine.fr/series/ficheserie-25370/critiques/",
+    "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=25370.html",
+    "review_text": "super série...les personnages sont bien campés , les scenari bien construits et originaux ; les prises de bues superbes",
+    "review_date": "5 septembre 2019",
+    "writer_pseudo": "Olivier L",
+    "review_rating": "4,0",
+    "collect_date": "2021_04_22"
+  },
+  {
+    "id_review_product": 3,
+    "url": "https://www.allocine.fr/series/ficheserie-25370/critiques/",
+    "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=25370.html",
+    "review_text": "série atypique avec duo détonant les intrigues sont très bien ficelées et les décors naturels dépaysants tous ces ingrédients en font une série attachante",
+    "review_date": "12 août 2019",
+    "writer_pseudo": "tolerance68",
+    "review_rating": "4,0",
+    "collect_date": "2021_04_22"
+  },
+  {
+    "id_review_product": 4,
+    "url": "https://www.allocine.fr/series/ficheserie-25370/critiques/",
+    "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=25370.html",
+    "review_text": "J ai adoré  cette série pour les intrigues les personnages le jeu des acteurs. Ce que j apprécie dans séries policières allemandes les rôles des policiers sont comme dans la vraie vie et non des supers héros forts qui réussissent tout apparemment 11 épisodes or 7 sur chaîne française et je pense que une seule saison dommage",
+    "review_date": "9 janvier 2020",
+    "writer_pseudo": "Valerie H",
+    "review_rating": "4,5",
+    "collect_date": "2021_04_22"
+  }
+]
