@@ -62,7 +62,7 @@ def collect_product_data(driver, url):
 
     # Running time
     try:
-        product_dict['running_time'] = driver.find_element_by_class_name('meta-body-info').get_attribute('textContent').split('/')[1].strip()
+        product_dict['running_time'] = driver.find_element_by_class_name('meta-body-info').get_attribute('textContent').replace("\n","").split('/')[1].strip()
     except:
         pass
 
@@ -128,7 +128,7 @@ def collect_product_data(driver, url):
         pass
     # Synopsis
     try:
-        product_dict['synopsis'] = driver.find_element_by_class_name('content-txt').get_attribute('textContent').replace("\n","").strip()
+        product_dict['synopsis'] = driver.find_element_by_class_name('content-txt').get_attribute('textContent').replace("\n","").replace('\"','').strip()
     except:
         pass
 

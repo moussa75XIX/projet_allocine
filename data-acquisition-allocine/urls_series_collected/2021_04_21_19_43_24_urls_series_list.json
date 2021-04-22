@@ -1,0 +1,77 @@
+[
+    {
+        "serie_name": "Westworld",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=16930.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-16930/critiques/"
+    },
+    {
+        "serie_name": "Spartacus",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=4318.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-4318/critiques/"
+    },
+    {
+        "serie_name": "Narcos",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=17010.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-17010/critiques/"
+    },
+    {
+        "serie_name": "The Man In the High Castle",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=9359.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-9359/critiques/"
+    },
+    {
+        "serie_name": "Le Livre perdu des sortilèges : A Discovery Of Witches",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=21490.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-21490/critiques/"
+    },
+    {
+        "serie_name": "The Mandalorian",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22963.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22963/critiques/"
+    },
+    {
+        "serie_name": "True Detective",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=11058.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-11058/critiques/"
+    },
+    {
+        "serie_name": "S.W.A.T. (2017)",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=21058.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-21058/critiques/"
+    },
+    {
+        "serie_name": "Trickster",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=27388.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-27388/critiques/"
+    },
+    {
+        "serie_name": "The Witcher",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22146.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22146/critiques/"
+    },
+    {
+        "serie_name": "En thérapie",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=24836.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-24836/critiques/"
+    },
+    {
+        "serie_name": "You",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=18897.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-18897/critiques/"
+    },
+    {
+        "serie_name": "Three Girls",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22082.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22082/critiques/"
+    },
+    {
+        "serie_name": "Lost : Les Disparus",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=223.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-223/critiques/"
+    },
+    {
+        "serie_name": "Downton Abbey",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=9280.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-9280/critiques/"
+    }
+]

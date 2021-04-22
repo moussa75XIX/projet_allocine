@@ -28,7 +28,7 @@ COLLECT_DATE = '2021_04_20'
 def main():
 
     # Select the url
-    url = "https://www.allocine.fr/series/ficheserie_gen_cserie=23120.html"
+    url = "https://www.allocine.fr/series/ficheserie_gen_cserie=23382.html"
     # Load the driver
     driver = webdriver.Chrome(PATH_DRIVER, options=CHROME_OPTIONS)
 

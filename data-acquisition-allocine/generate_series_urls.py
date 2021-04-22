@@ -1,112 +1,58 @@
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*- #
 
+
+import os
+import glob
 import json
 import time
-import os
-import random
-
-import requests
-from bs4 import BeautifulSoup
-
-PATH_SERIES_COLLECTED = os.path.join(os.curdir, 'urls_series_collected')
 
 
-def init_url_serie_dict():
+PATH_PRODUCTS = os.path.join(os.curdir, 'products')
+PATH_MERGED_PRODUCTS = os.path.join(os.curdir, 'merged_products')
+PATH_REVIEWS = os.path.join(os.curdir, 'reviews')
+PATH_MERGED_REVIEWS = os.path.join(os.curdir, 'merged_reviews')
+
+
+def aggregate_products():
     """
-    Initializes the dictionary with the product data.
-    Returns:
-        url_serie_dict : dict, dictionary with the information of a serie.
+    Aggregates the product's files collected.
     """
 
-    url_serie_dict = {
-        'serie_name': None,
-        'serie_url': None,
-        'series_reviews_page': None,
-    }
+    products_files = []
 
-    return url_serie_dict
+    # For each json file, open the content of the file
+    for products_file in glob.glob(os.path.join(PATH_PRODUCTS, '*.json')):
+        open_product_file = json.load(open(products_file, 'r', encoding="utf8"))
+        products_files.append(open_product_file)
+
+    with open(os.path.join(PATH_MERGED_PRODUCTS, str(time.strftime("%Y_%m_%d")) + '_aggregated_products_1.json'), 'w', encoding='utf-8') as file_to_dump:
+        json.dump(products_files, file_to_dump, indent=4, ensure_ascii=False)
 
 
-def collect_series_urls(current_page):
+def aggregate_reviews():
     """
-    Collects the name and the url of each serie on the page.
-    # Args:
-        current_page: str, url with list of series.
-    # Returns:
-        urls_series_list : list, list of url_serie_dict dictionaries
+    Aggregates the reviews' files collected.
     """
 
-    urls_series_list = []
+    try:
+        reviews_files = []
 
-    # Load the page
-    response = requests.get(current_page)
-    time.sleep(random.uniform(0, 3))
+        # For each json file, open the content of the file
+        for reviews_file in glob.glob(os.path.join(PATH_REVIEWS, '*.json')):
+            open_reviews_file = json.load(open(reviews_file, 'r', encoding="utf8"))
+        
+            for review_file in open_reviews_file:
+                reviews_files.append(review_file)
+    except:
+        pass
 
-    print('[LOG] Response =', response)
-
-    if response.ok:
-
-        html_page = BeautifulSoup(response.text, 'html.parser')
-        # Get the list of series urls.
-        series = html_page.find_all('li', {'mdl'})
-        try:
-            # For each serie
-            for serie in series:
-                url_serie_dict = init_url_serie_dict()
-
-                # Serie's name
-                try:
-                    url_serie_dict['serie_name'] = serie.find('h2',class_='meta-title').text.strip()
-                except:
-                    pass
-
-                # Serie's url
-                try:
-                    url_serie_dict['serie_url'] = "https://www.allocine.fr" + serie.find('h2',class_='meta-title').a['href']
-                except:
-                    pass
-
-                # Serie's reviews page
-                try:
-                    url_serie_dict['series_reviews_page'] = url_serie_dict['serie_url'].replace("_gen_cserie=","-").replace(".html","") + "/critiques/"
-                except:
-                    pass
-
-                # Save the url if there are reviews on it
-                if serie.find('div',class_='rating-item'):
-                    # a modifier
-                    urls_series_list.append(url_serie_dict)
-
-        except:
-            pass
-
-    return urls_series_list
+    with open(os.path.join(PATH_MERGED_REVIEWS, str(time.strftime("%Y_%m_%d")) + '_aggregated_reviews_1.json'), 'w', encoding='utf-8') as file_to_dump:
+        json.dump(reviews_files, file_to_dump, indent=4, ensure_ascii=False)
 
 
 def main():
-
-    url = "https://www.allocine.fr/series-tv/"
-
-    # Load the page
-    response = requests.get(url)
-    time.sleep(random.uniform(0, 3))
-
-    # For the first 10 pages we execute the method which collects the information
-    for i in range(1, 10+1):
-        current_page = url + "?page=" + str(i)
-
-        print('[LOG] Current url =', current_page)
-
-        try:
-            dict_urls_product_reviews = collect_series_urls(current_page)
-            # Save series list in a json file
-
-            with open(os.path.join(PATH_SERIES_COLLECTED, str(time.strftime("%Y_%m_%d_%H_%M_%S")) + '_urls_series_list.json'), 'w',encoding='utf-8') as file_to_dump:
-                json.dump(dict_urls_product_reviews, file_to_dump, ensure_ascii=False, indent=4)
-            print('[LOG] All the information of the current url have been saved.')
-
-        except:
-            print('[LOG] Issue with the current url. Information has not been saved')
+    aggregate_reviews()
+    aggregate_products()
 
 
 if __name__ == "__main__":

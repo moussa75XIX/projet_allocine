@@ -22,7 +22,7 @@ CHROME_OPTIONS.add_argument("--no-sandbox")
 CHROME_OPTIONS.add_argument("--window-size=1280,720")
 CHROME_OPTIONS.add_argument("--headless")
 
-COLLECT_DATE = '2021_04_20'
+COLLECT_DATE = '2021_04_21'
 
 
 def main():
@@ -57,9 +57,6 @@ def main():
 
                 # Collect and save the product data
                 product_data = collect_product_data(driver, url_dict['url'])
-
-                with open(os.path.join(PATH_PRODUCTS, COLLECT_DATE + '_data_product_' + str(time.strftime("%Y_%m_%d_%H_%M_%S")) + '.json'), 'w') as file_to_dump:
-                    json.dump(product_data, file_to_dump, indent=2, ensure_ascii=False)
 
                 # Change the status of the current url and save it.
                 # The current url has a title.
