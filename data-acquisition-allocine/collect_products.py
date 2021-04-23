@@ -14,8 +14,9 @@ from products_collector import collect_product_data
 
 PATH_PRODUCTS = os.path.join(os.curdir, 'products')
 PATH_URLS_PRODUCTS_TO_COLLECT = os.path.join(os.curdir, 'urls_products_to_collect')
-PATH_DRIVER = r'D:\Users\Tenma\Documents\chromedriver_win32\chromedriver.exe'
-#PATH_DRIVER = r'C:\Users\mouss\OneDrive\Documents\VOYSEN\chromedriver.exe'
+PATH_DRIVER = r'C:\Users\mouss\OneDrive\Documents\VOYSEN\chromedriver.exe'
+#PATH_DRIVER = r'D:\Users\Tenma\Documents\chromedriver_win32\chromedriver.exe'
+#PATH_DRIVER = r'D:\Ouss\projet_allocine-main\packages.exe'
 
 CHROME_OPTIONS = Options()
 CHROME_OPTIONS.add_argument('user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36')
@@ -58,9 +59,6 @@ def main():
 
                 # Collect and save the product data
                 product_data = collect_product_data(driver, url_dict['url'])
-
-                with open(os.path.join(PATH_PRODUCTS, COLLECT_DATE + '_data_product_' + str(time.strftime("%Y_%m_%d_%H_%M_%S")) + '.json'), 'w') as file_to_dump:
-                    json.dump(product_data, file_to_dump, indent=2, ensure_ascii=False)
 
                 # Change the status of the current url and save it.
                 # The current url has a title.

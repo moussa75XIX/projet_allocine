@@ -1,0 +1,77 @@
+[
+    {
+        "serie_name": "Grey's Anatomy",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=274.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-274/critiques/"
+    },
+    {
+        "serie_name": "Fear The Walking Dead",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=16958.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-16958/critiques/"
+    },
+    {
+        "serie_name": "Meurtres au paradis",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=9247.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-9247/critiques/"
+    },
+    {
+        "serie_name": "Game of Thrones",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=7157.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-7157/critiques/"
+    },
+    {
+        "serie_name": "Star Wars: Obi-Wan Kenobi",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=25501.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-25501/critiques/"
+    },
+    {
+        "serie_name": "24 heures chrono",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=58.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-58/critiques/"
+    },
+    {
+        "serie_name": "Les Irréguliers de Baker Street",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=28527.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-28527/critiques/"
+    },
+    {
+        "serie_name": "Demain nous appartient",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22125.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22125/critiques/"
+    },
+    {
+        "serie_name": "The Resident",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=19475.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-19475/critiques/"
+    },
+    {
+        "serie_name": "Outlander",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=11266.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-11266/critiques/"
+    },
+    {
+        "serie_name": "Léo Matteï, Brigade des mineurs",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=16943.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-16943/critiques/"
+    },
+    {
+        "serie_name": "L'Attaque des Titans",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=17425.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-17425/critiques/"
+    },
+    {
+        "serie_name": "Snowpiercer",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=19982.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-19982/critiques/"
+    },
+    {
+        "serie_name": "The Sinner",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=20976.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-20976/critiques/"
+    },
+    {
+        "serie_name": "Blacklist",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=11822.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-11822/critiques/"
+    }
+]

@@ -16,6 +16,8 @@ from reviews_collector import collect_reviews_data
 
 PATH_REVIEW = os.path.join(os.curdir, 'review')
 PATH_DRIVER = r'C:\Users\mouss\OneDrive\Documents\VOYSEN\chromedriver.exe'
+#PATH_DRIVER = r'D:\Users\Tenma\Documents\chromedriver_win32\chromedriver.exe'
+#PATH_DRIVER = r'D:\Ouss\projet_allocine-main\packages.exe'
 
 CHROME_OPTIONS = Options()
 CHROME_OPTIONS.add_argument('user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36')

@@ -1,0 +1,72 @@
+[
+    {
+        "serie_name": "Prison Break",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=451.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-451/critiques/"
+    },
+    {
+        "serie_name": "Big Sky",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=26197.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-26197/critiques/"
+    },
+    {
+        "serie_name": "Murder",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=17157.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-17157/critiques/"
+    },
+    {
+        "serie_name": "Snowfall",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=17554.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-17554/critiques/"
+    },
+    {
+        "serie_name": "Chernobyl",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22429.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22429/critiques/"
+    },
+    {
+        "serie_name": "Suits : avocats sur mesure",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=8644.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-8644/critiques/"
+    },
+    {
+        "serie_name": "Le Coeur a ses raisons",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=16724.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-16724/critiques/"
+    },
+    {
+        "serie_name": "9-1-1",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22123.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22123/critiques/"
+    },
+    {
+        "serie_name": "MINDHUNTER",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=20143.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-20143/critiques/"
+    },
+    {
+        "serie_name": "Normal People",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=25183.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-25183/critiques/"
+    },
+    {
+        "serie_name": "Permis de vivre",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=21947.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-21947/critiques/"
+    },
+    {
+        "serie_name": "It's a Sin",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=25725.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-25725/critiques/"
+    },
+    {
+        "serie_name": "Teen Wolf",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=8210.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-8210/critiques/"
+    },
+    {
+        "serie_name": "Sons of Anarchy",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=3859.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-3859/critiques/"
+    }
+]

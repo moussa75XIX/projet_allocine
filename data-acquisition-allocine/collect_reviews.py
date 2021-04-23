@@ -15,8 +15,9 @@ from reviews_collector import collect_reviews_data
 
 PATH_REVIEWS = os.path.join(os.curdir, 'reviews')
 PATH_URLS_REVIEWS_TO_COLLECT = os.path.join(os.curdir, 'urls_reviews_to_collect')
-PATH_DRIVER = r'D:\Users\Tenma\Documents\chromedriver_win32\chromedriver.exe'
-#PATH_DRIVER = r'C:\Users\mouss\OneDrive\Documents\VOYSEN\chromedriver.exe'
+PATH_DRIVER = r'C:\Users\mouss\OneDrive\Documents\VOYSEN\chromedriver.exe'
+#PATH_DRIVER = r'D:\Users\Tenma\Documents\chromedriver_win32\chromedriver.exe'
+#PATH_DRIVER = r'D:\Ouss\projet_allocine-main\packages.exe'
 
 CHROME_OPTIONS = Options()
 CHROME_OPTIONS.add_argument('user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36')
@@ -24,7 +25,7 @@ CHROME_OPTIONS.add_argument("--no-sandbox")
 CHROME_OPTIONS.add_argument("--window-size=1280,720")
 CHROME_OPTIONS.add_argument("--headless")
 
-COLLECT_DATE = '2021_04_21'
+COLLECT_DATE = '2021_04_20'
 
 
 def main():

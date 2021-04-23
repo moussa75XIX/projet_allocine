@@ -1,0 +1,867 @@
+[
+    {
+        "serie_name": "Le Serpent",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=25362.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-25362/critiques/"
+    },
+    {
+        "serie_name": "Clem",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=8724.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-8724/critiques/"
+    },
+    {
+        "serie_name": "Qui a tué Sara ?",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=28562.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-28562/critiques/"
+    },
+    {
+        "serie_name": "The Walking Dead",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=7330.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-7330/critiques/"
+    },
+    {
+        "serie_name": "Le Remplaçant",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=27414.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-27414/critiques/"
+    },
+    {
+        "serie_name": "Mare of Easttown",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=24693.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-24693/critiques/"
+    },
+    {
+        "serie_name": "Hippocrate",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=23120.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-23120/critiques/"
+    },
+    {
+        "serie_name": "Bron / Broen / The Bridge (2011)",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=11138.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-11138/critiques/"
+    },
+    {
+        "serie_name": "HPI",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=25616.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-25616/critiques/"
+    },
+    {
+        "serie_name": "Meurtres en eaux troubles",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=25370.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-25370/critiques/"
+    },
+    {
+        "serie_name": "The Nevers",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=23845.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-23845/critiques/"
+    },
+    {
+        "serie_name": "La Casa de Papel",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=21504.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-21504/critiques/"
+    },
+    {
+        "serie_name": "Les 100",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=11871.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-11871/critiques/"
+    },
+    {
+        "serie_name": "Peaky Blinders",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=11303.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-11303/critiques/"
+    },
+    {
+        "serie_name": "The Crown",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=17598.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-17598/critiques/"
+    },
+    {
+        "serie_name": "L'Ecole de la vie",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=27142.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-27142/critiques/"
+    },
+    {
+        "serie_name": "Coyote",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=25107.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-25107/critiques/"
+    },
+    {
+        "serie_name": "Snabba Cash",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=28547.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-28547/critiques/"
+    },
+    {
+        "serie_name": "Falcon et le Soldat de l'Hiver",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=24397.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-24397/critiques/"
+    },
+    {
+        "serie_name": "A Teacher",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=25424.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-25424/critiques/"
+    },
+    {
+        "serie_name": "Love, Death + Robots",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=24635.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-24635/critiques/"
+    },
+    {
+        "serie_name": "Ici Tout Commence",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=26049.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-26049/critiques/"
+    },
+    {
+        "serie_name": "Le Seigneur des anneaux",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22940.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22940/critiques/"
+    },
+    {
+        "serie_name": "Vikings",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=10214.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-10214/critiques/"
+    },
+    {
+        "serie_name": "Mon Amie Adèle",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=24705.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-24705/critiques/"
+    },
+    {
+        "serie_name": "Belgravia",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=26132.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-26132/critiques/"
+    },
+    {
+        "serie_name": "The Handmaid’s Tale : la servante écarlate",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=20677.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-20677/critiques/"
+    },
+    {
+        "serie_name": "Les Shtisel: Une Famille à Jérusalem",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=18843.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-18843/critiques/"
+    },
+    {
+        "serie_name": "Ginny & Georgia",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=25484.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-25484/critiques/"
+    },
+    {
+        "serie_name": "Grey's Anatomy",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=274.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-274/critiques/"
+    },
+    {
+        "serie_name": "Fear The Walking Dead",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=16958.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-16958/critiques/"
+    },
+    {
+        "serie_name": "Meurtres au paradis",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=9247.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-9247/critiques/"
+    },
+    {
+        "serie_name": "Game of Thrones",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=7157.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-7157/critiques/"
+    },
+    {
+        "serie_name": "Star Wars: Obi-Wan Kenobi",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=25501.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-25501/critiques/"
+    },
+    {
+        "serie_name": "24 heures chrono",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=58.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-58/critiques/"
+    },
+    {
+        "serie_name": "Les Irréguliers de Baker Street",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=28527.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-28527/critiques/"
+    },
+    {
+        "serie_name": "Demain nous appartient",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22125.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22125/critiques/"
+    },
+    {
+        "serie_name": "The Resident",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=19475.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-19475/critiques/"
+    },
+    {
+        "serie_name": "Outlander",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=11266.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-11266/critiques/"
+    },
+    {
+        "serie_name": "Léo Matteï, Brigade des mineurs",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=16943.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-16943/critiques/"
+    },
+    {
+        "serie_name": "L'Attaque des Titans",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=17425.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-17425/critiques/"
+    },
+    {
+        "serie_name": "Snowpiercer",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=19982.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-19982/critiques/"
+    },
+    {
+        "serie_name": "The Sinner",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=20976.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-20976/critiques/"
+    },
+    {
+        "serie_name": "Blacklist",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=11822.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-11822/critiques/"
+    },
+    {
+        "serie_name": "Homeland",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=9285.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-9285/critiques/"
+    },
+    {
+        "serie_name": "Into the Badlands",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=17761.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-17761/critiques/"
+    },
+    {
+        "serie_name": "This is Us",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=19992.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-19992/critiques/"
+    },
+    {
+        "serie_name": "Breaking Bad",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=3517.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-3517/critiques/"
+    },
+    {
+        "serie_name": "Salamandre",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=12222.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-12222/critiques/"
+    },
+    {
+        "serie_name": "The One",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=24465.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-24465/critiques/"
+    },
+    {
+        "serie_name": "Élite",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22373.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22373/critiques/"
+    },
+    {
+        "serie_name": "Shameless (US)",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=7634.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-7634/critiques/"
+    },
+    {
+        "serie_name": "Stranger Things",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=19156.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-19156/critiques/"
+    },
+    {
+        "serie_name": "Le jeu de la dame",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=24971.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-24971/critiques/"
+    },
+    {
+        "serie_name": "Validé",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=24293.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-24293/critiques/"
+    },
+    {
+        "serie_name": "Made for Love",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=25284.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-25284/critiques/"
+    },
+    {
+        "serie_name": "La Chronique des Bridgerton",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=23886.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-23886/critiques/"
+    },
+    {
+        "serie_name": "Lucifer",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=18145.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-18145/critiques/"
+    },
+    {
+        "serie_name": "Moi, Christiane F.",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22453.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22453/critiques/"
+    },
+    {
+        "serie_name": "American Horror Story",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=10001.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-10001/critiques/"
+    },
+    {
+        "serie_name": "Eux",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=23925.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-23925/critiques/"
+    },
+    {
+        "serie_name": "Seule contre tous",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22454.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22454/critiques/"
+    },
+    {
+        "serie_name": "Sky Rojo",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=23940.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-23940/critiques/"
+    },
+    {
+        "serie_name": "Colony",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=17835.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-17835/critiques/"
+    },
+    {
+        "serie_name": "Fargo (2014)",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=11042.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-11042/critiques/"
+    },
+    {
+        "serie_name": "Sex Education",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=23024.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-23024/critiques/"
+    },
+    {
+        "serie_name": "Le Bureau des Légendes",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=17907.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-17907/critiques/"
+    },
+    {
+        "serie_name": "Un homme d'honneur",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=26086.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-26086/critiques/"
+    },
+    {
+        "serie_name": "The Boys",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22668.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22668/critiques/"
+    },
+    {
+        "serie_name": "Invincible",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=23751.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-23751/critiques/"
+    },
+    {
+        "serie_name": "Riverdale",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=18543.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-18543/critiques/"
+    },
+    {
+        "serie_name": "Lupin",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22302.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22302/critiques/"
+    },
+    {
+        "serie_name": "Dark",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=20328.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-20328/critiques/"
+    },
+    {
+        "serie_name": "Dix Pour Cent",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=5019.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-5019/critiques/"
+    },
+    {
+        "serie_name": "Your Honor",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22030.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22030/critiques/"
+    },
+    {
+        "serie_name": "For All Mankind",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=23080.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-23080/critiques/"
+    },
+    {
+        "serie_name": "WandaVision",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=24173.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-24173/critiques/"
+    },
+    {
+        "serie_name": "Baghdad Central",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=24843.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-24843/critiques/"
+    },
+    {
+        "serie_name": "Big Shot",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=25829.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-25829/critiques/"
+    },
+    {
+        "serie_name": "Miss Scarlet, détective privée",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=24626.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-24626/critiques/"
+    },
+    {
+        "serie_name": "The Last Kingdom",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=18529.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-18529/critiques/"
+    },
+    {
+        "serie_name": "Un Si Grand Soleil",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=23331.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-23331/critiques/"
+    },
+    {
+        "serie_name": "The Expanse",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=17483.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-17483/critiques/"
+    },
+    {
+        "serie_name": "Atlanta (2016)",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=18644.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-18644/critiques/"
+    },
+    {
+        "serie_name": "Ozark",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=19792.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-19792/critiques/"
+    },
+    {
+        "serie_name": "Reine du Sud",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=18339.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-18339/critiques/"
+    },
+    {
+        "serie_name": "Prison Break",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=451.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-451/critiques/"
+    },
+    {
+        "serie_name": "Big Sky",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=26197.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-26197/critiques/"
+    },
+    {
+        "serie_name": "Murder",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=17157.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-17157/critiques/"
+    },
+    {
+        "serie_name": "Snowfall",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=17554.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-17554/critiques/"
+    },
+    {
+        "serie_name": "Chernobyl",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22429.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22429/critiques/"
+    },
+    {
+        "serie_name": "Suits : avocats sur mesure",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=8644.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-8644/critiques/"
+    },
+    {
+        "serie_name": "Le Coeur a ses raisons",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=16724.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-16724/critiques/"
+    },
+    {
+        "serie_name": "9-1-1",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22123.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22123/critiques/"
+    },
+    {
+        "serie_name": "MINDHUNTER",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=20143.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-20143/critiques/"
+    },
+    {
+        "serie_name": "Normal People",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=25183.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-25183/critiques/"
+    },
+    {
+        "serie_name": "Permis de vivre",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=21947.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-21947/critiques/"
+    },
+    {
+        "serie_name": "It's a Sin",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=25725.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-25725/critiques/"
+    },
+    {
+        "serie_name": "Teen Wolf",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=8210.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-8210/critiques/"
+    },
+    {
+        "serie_name": "Sons of Anarchy",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=3859.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-3859/critiques/"
+    },
+    {
+        "serie_name": "Rex, chien flic",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=3046.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-3046/critiques/"
+    },
+    {
+        "serie_name": "City on a Hill",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22444.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22444/critiques/"
+    },
+    {
+        "serie_name": "Helstrom",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=25106.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-25106/critiques/"
+    },
+    {
+        "serie_name": "Alice in Borderland",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=27439.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-27439/critiques/"
+    },
+    {
+        "serie_name": "Astrid et Raphaëlle",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=24967.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-24967/critiques/"
+    },
+    {
+        "serie_name": "Dollface",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22989.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22989/critiques/"
+    },
+    {
+        "serie_name": "Resident Alien",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=23695.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-23695/critiques/"
+    },
+    {
+        "serie_name": "Engrenages",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=538.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-538/critiques/"
+    },
+    {
+        "serie_name": "El Embarcadero / The Pier",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=23914.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-23914/critiques/"
+    },
+    {
+        "serie_name": "Le goût des marguerites",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=26346.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-26346/critiques/"
+    },
+    {
+        "serie_name": "Black Mirror",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=10855.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-10855/critiques/"
+    },
+    {
+        "serie_name": "Marcella",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=20437.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-20437/critiques/"
+    },
+    {
+        "serie_name": "Coroner",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=23754.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-23754/critiques/"
+    },
+    {
+        "serie_name": "Loki",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=24172.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-24172/critiques/"
+    },
+    {
+        "serie_name": "Westworld",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=16930.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-16930/critiques/"
+    },
+    {
+        "serie_name": "Spartacus",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=4318.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-4318/critiques/"
+    },
+    {
+        "serie_name": "Narcos",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=17010.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-17010/critiques/"
+    },
+    {
+        "serie_name": "The Man In the High Castle",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=9359.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-9359/critiques/"
+    },
+    {
+        "serie_name": "Le Livre perdu des sortilèges : A Discovery Of Witches",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=21490.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-21490/critiques/"
+    },
+    {
+        "serie_name": "The Mandalorian",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22963.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22963/critiques/"
+    },
+    {
+        "serie_name": "True Detective",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=11058.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-11058/critiques/"
+    },
+    {
+        "serie_name": "S.W.A.T. (2017)",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=21058.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-21058/critiques/"
+    },
+    {
+        "serie_name": "Trickster",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=27388.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-27388/critiques/"
+    },
+    {
+        "serie_name": "The Witcher",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22146.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22146/critiques/"
+    },
+    {
+        "serie_name": "En thérapie",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=24836.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-24836/critiques/"
+    },
+    {
+        "serie_name": "You",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=18897.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-18897/critiques/"
+    },
+    {
+        "serie_name": "Three Girls",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22082.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22082/critiques/"
+    },
+    {
+        "serie_name": "Lost : Les Disparus",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=223.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-223/critiques/"
+    },
+    {
+        "serie_name": "Downton Abbey",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=9280.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-9280/critiques/"
+    },
+    {
+        "serie_name": "Paris police 1900",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=25369.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-25369/critiques/"
+    },
+    {
+        "serie_name": "Banshee",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=10430.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-10430/critiques/"
+    },
+    {
+        "serie_name": "Hawaii Five-0 (2010)",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=8082.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-8082/critiques/"
+    },
+    {
+        "serie_name": "House of Cards",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=7663.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-7663/critiques/"
+    },
+    {
+        "serie_name": "Les demoiselles du téléphone",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=20490.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-20490/critiques/"
+    },
+    {
+        "serie_name": "Plus belle la vie",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=322.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-322/critiques/"
+    },
+    {
+        "serie_name": "White Lines",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=23929.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-23929/critiques/"
+    },
+    {
+        "serie_name": "Anne with an \"E\"",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=20175.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-20175/critiques/"
+    },
+    {
+        "serie_name": "OVNI(s)",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=25457.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-25457/critiques/"
+    },
+    {
+        "serie_name": "L'Autre côté",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=24602.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-24602/critiques/"
+    },
+    {
+        "serie_name": "Family Business",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=24218.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-24218/critiques/"
+    },
+    {
+        "serie_name": "Outer Banks",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=26372.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-26372/critiques/"
+    },
+    {
+        "serie_name": "Designated Survivor",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=20098.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-20098/critiques/"
+    },
+    {
+        "serie_name": "Justice League : The Snyder Cut",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=27177.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-27177/critiques/"
+    },
+    {
+        "serie_name": "Euphoria (2019)",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22215.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22215/critiques/"
+    },
+    {
+        "serie_name": "Good Doctor",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=18045.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-18045/critiques/"
+    },
+    {
+        "serie_name": "Rectify",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=11090.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-11090/critiques/"
+    },
+    {
+        "serie_name": "Helstrom",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=25106.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-25106/critiques/"
+    },
+    {
+        "serie_name": "Justice League : The Snyder Cut",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=27177.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-27177/critiques/"
+    },
+    {
+        "serie_name": "Dexter",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=3004.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-3004/critiques/"
+    },
+    {
+        "serie_name": "Yellowstone",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=17457.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-17457/critiques/"
+    },
+    {
+        "serie_name": "Arrow",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=10839.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-10839/critiques/"
+    },
+    {
+        "serie_name": "House of Cards",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=7663.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-7663/critiques/"
+    },
+    {
+        "serie_name": "NCIS : Enquêtes spéciales",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=133.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-133/critiques/"
+    },
+    {
+        "serie_name": "Banshee",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=10430.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-10430/critiques/"
+    },
+    {
+        "serie_name": "Gomorra",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=17447.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-17447/critiques/"
+    },
+    {
+        "serie_name": "Vampire Diaries",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=5154.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-5154/critiques/"
+    },
+    {
+        "serie_name": "NCIS: Los Angeles",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=5126.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-5126/critiques/"
+    },
+    {
+        "serie_name": "See",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=23163.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-23163/critiques/"
+    },
+    {
+        "serie_name": "Miraculous, les aventures de Ladybug et Chat Noir",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=19900.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-19900/critiques/"
+    },
+    {
+        "serie_name": "Godfather of Harlem",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22906.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22906/critiques/"
+    },
+    {
+        "serie_name": "Cobra Kai",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22484.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22484/critiques/"
+    },
+    {
+        "serie_name": "Euphoria (2019)",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=22215.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-22215/critiques/"
+    },
+    {
+        "serie_name": "Power",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=12275.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-12275/critiques/"
+    },
+    {
+        "serie_name": "Arrow",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=10839.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-10839/critiques/"
+    },
+    {
+        "serie_name": "Unbelievable",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=23246.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-23246/critiques/"
+    },
+    {
+        "serie_name": "Chicago Fire",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=10383.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-10383/critiques/"
+    },
+    {
+        "serie_name": "Unorthodox",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=24796.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-24796/critiques/"
+    },
+    {
+        "serie_name": "Bienvenue à Sanditon",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=25308.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-25308/critiques/"
+    },
+    {
+        "serie_name": "Tandem",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=20085.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-20085/critiques/"
+    },
+    {
+        "serie_name": "Orphan Black",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=11450.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-11450/critiques/"
+    },
+    {
+        "serie_name": "Kaamelott",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=334.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-334/critiques/"
+    },
+    {
+        "serie_name": "New Amsterdam (2018)",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=23295.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-23295/critiques/"
+    },
+    {
+        "serie_name": "Marvel : Les Agents du S.H.I.E.L.D.",
+        "serie_url": "https://www.allocine.fr/series/ficheserie_gen_cserie=11400.html",
+        "series_reviews_page": "https://www.allocine.fr/series/ficheserie-11400/critiques/"
+    }
+]

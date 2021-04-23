@@ -15,6 +15,8 @@ from products_collector import collect_product_data
 
 PATH_PRODUCT = os.path.join(os.curdir, 'product')
 PATH_DRIVER = r'C:\Users\mouss\OneDrive\Documents\VOYSEN\chromedriver.exe'
+#PATH_DRIVER = r'D:\Users\Tenma\Documents\chromedriver_win32\chromedriver.exe'
+#PATH_DRIVER = r'D:\Ouss\projet_allocine-main\packages.exe'
 
 CHROME_OPTIONS = Options()
 CHROME_OPTIONS.add_argument('user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36')
@@ -28,7 +30,7 @@ COLLECT_DATE = '2021_04_20'
 def main():
 
     # Select the url
-    url = "https://www.allocine.fr/series/ficheserie_gen_cserie=23120.html"
+    url = "https://www.allocine.fr/series/ficheserie_gen_cserie=20328.html"
     # Load the driver
     driver = webdriver.Chrome(PATH_DRIVER, options=CHROME_OPTIONS)
 
@@ -52,8 +54,8 @@ def main():
 
     print(product_data)
 
-    with open(os.path.join(PATH_PRODUCT,COLLECT_DATE + '_data_product_' + str(time.strftime("%Y_%m_%d_%H_%M_%S")) + '.json'), 'w',encoding='utf-8') as file_to_dump:
-        json.dump(product_data, file_to_dump, indent=2, ensure_ascii=False)
+    with open(os.path.join(PATH_PRODUCT, str(time.strftime("%Y_%m_%d_%H_%M_%S")) + '_product.json'), 'w', encoding='utf-8') as file_to_dump:
+        json.dump(product_data, file_to_dump, indent=4, ensure_ascii=False)
 
     # Delete the cookies and quit the driver
     driver.delete_all_cookies()

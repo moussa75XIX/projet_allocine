@@ -10,7 +10,7 @@ PATH_SERIES_AGGREGATED = os.path.join(os.curdir, 'urls_series_aggregated')
 PATH_URLS_PRODUCTS_TO_COLLECT = os.path.join(os.curdir, 'urls_products_to_collect')
 PATH_URLS_REVIEWS_TO_COLLECT = os.path.join(os.curdir, 'urls_reviews_to_collect')
 
-COLLECT_DATE = '2021_04_20'
+COLLECT_DATE = '2021_04_21'
 
 
 def filter_products_urls(urls):

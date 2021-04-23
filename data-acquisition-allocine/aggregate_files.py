@@ -21,7 +21,7 @@ def aggregate_products():
 
     # For each json file, open the content of the file
     for products_file in glob.glob(os.path.join(PATH_PRODUCTS, '*.json')):
-        open_product_file = json.load(open(products_file, 'r', encoding="utf8"))
+        open_product_file = json.load(open(products_file, 'r'))
         products_files.append(open_product_file)
 
     with open(os.path.join(PATH_MERGED_PRODUCTS, str(time.strftime("%Y_%m_%d")) + '_aggregated_products.json'), 'w', encoding='utf-8') as file_to_dump:
@@ -46,7 +46,7 @@ def aggregate_reviews():
 
 
 def main():
-    aggregate_reviews()
+    #aggregate_reviews()
     aggregate_products()
 
 
