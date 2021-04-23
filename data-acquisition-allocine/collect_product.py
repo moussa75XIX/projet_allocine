@@ -14,8 +14,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from products_collector import collect_product_data
 
 PATH_PRODUCT = os.path.join(os.curdir, 'product')
-PATH_DRIVER = r'C:\Users\mouss\OneDrive\Documents\VOYSEN\chromedriver.exe'
-#PATH_DRIVER = r'D:\Users\Tenma\Documents\chromedriver_win32\chromedriver.exe'
+#PATH_DRIVER = r'C:\Users\mouss\OneDrive\Documents\VOYSEN\chromedriver.exe'
+PATH_DRIVER = r'D:\Users\Tenma\Documents\chromedriver_win32\chromedriver.exe'
 #PATH_DRIVER = r'D:\Ouss\projet_allocine-main\packages.exe'
 
 CHROME_OPTIONS = Options()

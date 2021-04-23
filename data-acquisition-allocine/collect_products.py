@@ -14,8 +14,8 @@ from products_collector import collect_product_data
 
 PATH_PRODUCTS = os.path.join(os.curdir, 'products')
 PATH_URLS_PRODUCTS_TO_COLLECT = os.path.join(os.curdir, 'urls_products_to_collect')
-PATH_DRIVER = r'C:\Users\mouss\OneDrive\Documents\VOYSEN\chromedriver.exe'
-#PATH_DRIVER = r'D:\Users\Tenma\Documents\chromedriver_win32\chromedriver.exe'
+#PATH_DRIVER = r'C:\Users\mouss\OneDrive\Documents\VOYSEN\chromedriver.exe'
+PATH_DRIVER = r'D:\Users\Tenma\Documents\chromedriver_win32\chromedriver.exe'
 #PATH_DRIVER = r'D:\Ouss\projet_allocine-main\packages.exe'
 
 CHROME_OPTIONS = Options()

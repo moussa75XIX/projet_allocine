@@ -15,8 +15,8 @@ from reviews_collector import collect_reviews_data
 
 PATH_REVIEWS = os.path.join(os.curdir, 'reviews')
 PATH_URLS_REVIEWS_TO_COLLECT = os.path.join(os.curdir, 'urls_reviews_to_collect')
-PATH_DRIVER = r'C:\Users\mouss\OneDrive\Documents\VOYSEN\chromedriver.exe'
-#PATH_DRIVER = r'D:\Users\Tenma\Documents\chromedriver_win32\chromedriver.exe'
+#PATH_DRIVER = r'C:\Users\mouss\OneDrive\Documents\VOYSEN\chromedriver.exe'
+PATH_DRIVER = r'D:\Users\Tenma\Documents\chromedriver_win32\chromedriver.exe'
 #PATH_DRIVER = r'D:\Ouss\projet_allocine-main\packages.exe'
 
 CHROME_OPTIONS = Options()
